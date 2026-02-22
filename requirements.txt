@@ -1,0 +1,6 @@
+requests
+py-clob-client
+python-dotenv>=1.0.0
+flask>=3.0.0
+websocket-client>=1.6.0
+
