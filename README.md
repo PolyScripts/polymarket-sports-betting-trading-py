@@ -2,6 +2,8 @@
 
 **Contact:** [Telegram @movez_x](https://t.me/movez_x)
 
+[English](README.md) | [中文](README.zh.md)
+
 ---
 
 ## What is this bot?
