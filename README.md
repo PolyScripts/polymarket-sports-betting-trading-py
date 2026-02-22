@@ -6,16 +6,17 @@
 
 ## What is this bot?
 
-This bot helps sports betting traders on Polymarket by giving you a fast, focused interface for live sports markets. Instead of navigating the main site, you get a clean grid of live games (football, basketball, hockey, tennis) with real-time prices—no esports clutter. You click, the bot places your order in **~20ms** using market orders (FAK), so you can react quickly when odds move. It’s manual click-to-bet: you make every decision, the bot handles execution. Made with Rust.
+This bot helps sports betting traders on Polymarket by giving you a fast, focused interface for live sports markets.   Instead of navigating the main site, you get a clean grid of live games (football, basketball, hockey, tennis) with real-time prices—no esports clutter.   
+You click, the bot places your order in **~20ms** using market orders (FAK), so you can react quickly when odds move. It’s manual click-to-bet: you make every decision, the bot handles execution. Made with Rust.
 
 ---
 
 ## Screenshots
 
-![Screenshot 1](images/screenshot1.png)
-![Screenshot 2](images/screenshot2.png)
-![Screenshot 3](images/screenshot3.png)
-![Screenshot 4](images/screenshot4.png)
+![Screenshot 1](images/1.png)
+![Screenshot 2](images/2.png)
+![Screenshot 3](images/3.png)
+![Screenshot 4](images/4.png)
 
 ---
 
